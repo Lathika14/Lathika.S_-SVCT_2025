@@ -1,0 +1,4 @@
+N = input()
+
+# Reverse the number and print it
+print(N[::-1])
